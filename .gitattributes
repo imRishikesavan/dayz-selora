@@ -1,0 +1,18 @@
+# Normalize line endings
+# Do not edit manually
+# Language detection rules
+*.min.js linguist-generated
+*.md linguist-documentation
+*.gif binary
+
+public/* linguist-vendored
+
+public/index.html linguist-vendored
+
+*.woff binary
+*.png binary
+*.ico binary
+go.sum linguist-generated   
+src/** linguist-detectable
+src/*.ts linguist-detectable
+# eof 3b7f3dba
