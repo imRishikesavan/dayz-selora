@@ -1,0 +1,6 @@
+coverage/
+.DS_Store
+.cache/
+.env.local
+dist/
+.env
